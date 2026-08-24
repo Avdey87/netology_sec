@@ -3,6 +3,9 @@
 Добавьте пользователя cryptouser.
 Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 В качестве ответа пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.
+![1](https://github.com/Avdey87/netology_sec/blob/main/sec-1.jpg)
+![2](https://github.com/Avdey87/netology_sec/blob/main/sec-2.jpg)
+
 
 # Задание 2
 Установите поддержку LUKS.
