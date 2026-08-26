@@ -62,11 +62,11 @@ UDP-сканирование	-sU	→ UDP-дейтаграмма	Отправля
 Если порт открыт: в зависимости от режима:
 SYN-сканирование: сервер отвечает SYN+ACK (сканирование продолжает полуоткрытое соединение).
 FIN / Xmas-сканирование: открытый порт игнорирует пакет и не отвечает (согласно RFC 793). Это позволяет различить открытые и закрытые порты.
-[syn](https://github.com/Avdey87/netology_sec/blob/main/SYN.jpg)
-[fin](https://github.com/Avdey87/netology_sec/blob/main/FIN.jpg)
+![syn](https://github.com/Avdey87/netology_sec/blob/main/SYN.jpg)
+![fin](https://github.com/Avdey87/netology_sec/blob/main/FIN.jpg)
 
 ### Для UDP-сканирования:
 Если порт закрыт: сервер отвечает ICMP-сообщением «порт недоступен» (ICMP Port Unreachable).
 Если порт открыт: в большинстве случаев ответа нет (UDP-сервисы не обязаны отвечать на пустые дейтаграммы). Некоторые хосты также ограничивают частоту ICMP-ответов
-[udp](https://github.com/Avdey87/netology_sec/blob/main/UDP.jpg)
+![udp](https://github.com/Avdey87/netology_sec/blob/main/UDP.jpg)
 Приведите ответ в свободной форме.
