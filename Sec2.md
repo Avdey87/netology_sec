@@ -19,6 +19,7 @@ sudo nmap -sV < ip-адрес >
 По желанию можете поэкспериментировать с опциями: https://nmap.org/man/ru/man-briefoptions.html.
 
 В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.
+![1](https://github.com/Avdey87/netology_sec/blob/main/sec_2-1.jpg)
 
 # Задание 2
 Проведите атаку на подбор пароля для службы SSH:
