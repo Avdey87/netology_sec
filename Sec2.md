@@ -38,3 +38,6 @@ hydra -L users.txt -P pass.txt < ip-адрес > ssh
 Дополнительная информация по Fail2Ban:https://putty.org.ru/articles/fail2ban-ssh.html.
 
 В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.
+![2](https://github.com/Avdey87/netology_sec/blob/main/sec_2-2.jpg)
+![3](https://github.com/Avdey87/netology_sec/blob/main/sec_2-3.jpg)
+
